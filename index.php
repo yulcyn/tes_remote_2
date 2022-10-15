@@ -9,5 +9,9 @@
 <body>
     <h1>hello world weee</h1>
     <p>hohoho ayo coba coba</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
